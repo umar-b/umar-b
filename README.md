@@ -10,7 +10,6 @@
 
 ## &#x1f4c8; My GitHub Stats
 [![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=umar-b&theme=tokyonight&show_icons=True&include_all_commits=True&count_private=True)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umar-b&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umar-b&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **umar-b/umar-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
