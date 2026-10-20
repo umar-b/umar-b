@@ -1,4 +1,4 @@
-### Hi, I'm Umar 👋
+### Hi, I'm Muhammad 👋
 
 Biomedical engineer who ended up writing a lot of software. Most of it has been about health: making sense of genomes, wearable data and lab results, and building tools that take boring work off people's plates.
 
