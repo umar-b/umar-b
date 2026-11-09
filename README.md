@@ -8,12 +8,6 @@ Right now I'm between projects and figuring out what's next.
 
 - **Health software**, especially anything that turns messy personal data (genomes, wearables, blood work) into something a person can actually use.
 - **Wearables**, from the sensor all the way to the signal processing.
-- Usually Python and FastAPI on the backend, React or Vue on the front.
-
-#### Things I've built
-
-- **[dna-analysis-saas](https://github.com/umar-b/dna-analysis-saas)**: combines your genome, wearable and lab data into a personal health report, with citations and automated quality checks.
-- **[techbold hackathon project](https://github.com/umar-b/techbold_track_start_hack)**: an AI agent that handles first-line IT support tickets, or helps a human do it faster.
 
 
 #### Toolbox
